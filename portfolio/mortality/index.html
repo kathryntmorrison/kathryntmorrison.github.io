@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
-	<meta name="generator" content="Hugo 0.21-DEV" /><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Kathryn Morrison, PhD</title>
+<title>US life expectancy gap</title>
 <meta name="description" content="A website built through Hugo and blogdown.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -21,9 +20,6 @@
 <link href="https://kathryntmorrison.github.io/css/custom.css" rel="stylesheet">
 <link rel="shortcut icon" href="https://kathryntmorrison.github.io/img/favicon.png">
 
-  <link href="https://kathryntmorrison.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Kathryn Morrison, PhD" />
-  <link href="https://kathryntmorrison.github.io/index.xml" rel="feed" type="application/rss+xml" title="Kathryn Morrison, PhD" />
-
 
 </head>
 <body>
@@ -32,7 +28,7 @@
           <div class="row row-offcanvas row-offcanvas-left">
               <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-    <h1 class="sidebar-heading"><a href="./">Kathryn Morrison, PhD</a></h1>
+    <h1 class="sidebar-heading"><a href="../../">Kathryn Morrison, PhD</a></h1>
 <p class="social">
   
   
@@ -84,7 +80,7 @@
     
 
 <center> 
- <img src="./ktm.jpg" align="center" height="310" >  </center>
+ <img src="../../ktm.jpg" align="center" height="310" >  </center>
 <br>
 
 
@@ -109,81 +105,28 @@ Ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
 </div>
 
               
-  <div class="col-xs-12 col-sm-8 col-md-9 content-column">
-    <div class="small-navbar visible-xs">
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
   <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
-  <h1 class="small-navbar-heading"><a href="./">Kathryn Morrison, PhD</a></h1>
+  <h1 class="small-navbar-heading"><a href="../../">Kathryn Morrison, PhD</a></h1>
 </div>
 
-    <div class="grid">
-        <div class="row">
-          
-              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
-                  <div class="box-masonry">
-                      
-                        
-                        <a href="https://kathryntmorrison.github.io/portfolio/smoke/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                        
-                            <img src="portfolio/smoke.jpg" alt="" class="img-responsive">
-                        </a>
-                      
-                      
-                      <div class="box-masonry-text">
-                      
-                          <h4><a href="https://kathryntmorrison.github.io/portfolio/smoke/">Air pollution from wildfire smoke</a></h4>
-                          <div class="box-masonry-desription">
-                              <p><p>Wildifre smoke&hellip;
-</p></p>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          
-              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
-                  <div class="box-masonry">
-                      
-                        
-                        <a href="https://kathryntmorrison.github.io/portfolio/ebola/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                        
-                            <img src="portfolio/ebola.png" alt="" class="img-responsive">
-                        </a>
-                      
-                      
-                      <div class="box-masonry-text">
-                      
-                          <h4><a href="https://kathryntmorrison.github.io/portfolio/ebola/">Spatial patterns of the 2015 West African Ebola outbreak</a></h4>
-                          <div class="box-masonry-desription">
-                              <p><p>The 2015 outbreak was unprecedented in terms of
-</p></p>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          
-              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
-                  <div class="box-masonry">
-                      
-                        
-                        <a href="https://kathryntmorrison.github.io/portfolio/mortality/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                        
-                            <img src="portfolio/mortality.png" alt="" class="img-responsive">
-                        </a>
-                      
-                      
-                      <div class="box-masonry-text">
-                      
-                          <h4><a href="https://kathryntmorrison.github.io/portfolio/mortality/">US life expectancy gap</a></h4>
-                          <div class="box-masonry-desription">
-                              <p></p>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          
-        </div>
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>US life expectancy gap</h1>
+         <p>My colleague <a href="https://github.com/corinne-riddell">Dr. Corinne Riddell</a> is a post-doctoral fellow at McGill, and she has been researching the gap in life expectancy at birth between blacks and whites in the US over the last several decades.<sup>1</sup>   Life expectancy at birth is a metric commonly used to compare health disparities between different populations. She took mortality data from the National Vital Statistics System from 1960s to 2010s, categorized by race, sex, age group, year, state, and cause-of-death. The six cause of death categories were cancer, cardiovascular disease, communicable disease, non- communicable disease, injuries, and all other causes. She then decomposed the gap in life expectancy between blacks and whites, to explore what factors most explained the disparity. Her findings will be published as a journal article, and she has also developed an interactive shiny app where you can explore these data and results. It&rsquo;s very cool, and I will link to it when it becomes public!</p>
+
+<p>For this project, I coded and ran a Bayesian model that was used to smooth the rates and impute missing values. An <em>observed</em> mortality rate may appear to be zero, in the sense that zero deaths may occur within a (age, sex, state, race, year, cause-of-death) strata. This becomes more common when population counts are small. However, the theoretical mortality rate for any population is never zero, it just may be very small. Therefore, we conceptualized the mortality rate as a latent measure that is not observed directly, but rather the resulting number of deaths are observed. Also, any strata that had between one and nine were censored (or rather, <em>coarsened</em>, as we knew the true number was between 1 and 9). We therefore smoothed the mortality rates over time, using &lsquo;neighbouring&rsquo; years to inform the underlying true mortality rate and using a truncated Poisson for the coarsened strata &lsquo;cells.&rsquo; When the paper and shiny app are public, I will publish the JAGS code used for this model.</p>
+
+<hr> 
+
+<p><sup>1 </sup> This work builds on her supervisor&rsquo;s previous work: Harper S, Lynch J, Burris S, Smith GD. 2007. <a href="http://jamanetwork.com/journals/jama/fullarticle/206131">Trends in the black-white life expectancy gap in the United States, 1983-2003.</a> <em>Journal of the American Medical Association</em>, 297(11): 1224-1232.</p>
+         
+      </div>
     </div>
+  </div>
 </div>
-
 
           </div>
       </div>

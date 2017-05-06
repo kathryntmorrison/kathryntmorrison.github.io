@@ -51,3 +51,10 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     height = 50
     alt = "Logo"
 
+ 
+  [params.social]
+  email         = "morrison.kathrynt@gmail.com"
+  twitter       = "https://twitter.com/kathryn_tm"
+  linkedin      = "full profile url in linkedin"
+  instagram     = "https://www.instagram.com/arf_hotel/"
+  github        = "https://github.com/kathryntmorrison"

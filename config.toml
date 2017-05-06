@@ -7,6 +7,15 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Faculty at UdeM"
+  copyright = "&copy;2017 Kate Zinszer"
+  sidebarAbout = [
+    "I am a statistical consultant in Montreal, QC"
+  ]
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 

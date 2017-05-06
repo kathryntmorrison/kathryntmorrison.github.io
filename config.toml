@@ -14,6 +14,15 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
   name = "Publications"
   url = "publications/"
 
+[[params.navlinks]]
+  name = "Consulting services"
+  url = "consult/"
+
+[[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+
 [[menu.main]]
     name = "About"
     url = "/about/"

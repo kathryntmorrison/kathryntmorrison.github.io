@@ -32,6 +32,16 @@
     </item>
     
     <item>
+      <title>Statistical and epidemiological consulting</title>
+      <link>https://kathryntmorrison.github.io/consult/</link>
+      <pubDate>Sat, 06 May 2017 16:24:29 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/consult/</guid>
+      <description>I work as a freelance statistical consultant. I have worked with clients from private industrial firms, academics, professionals, and undergraduate and graduate students. I have performed data analysis on a contract basis; I have offered statistical advice and guidance to individuals working on theses, grants, and projects; and I have offered individulized statistical and programming assistance and tutoring.
+My specalizations are in spatial-temporal modelling, environmental statistics, predictive analytics including machine learning approaches, Bayesian inference and computation (MCMC, INLA) and data visulization including interactive app development.</description>
+    </item>
+    
+    <item>
       <title>Recent publications</title>
       <link>https://kathryntmorrison.github.io/publications/</link>
       <pubDate>Sat, 06 May 2017 16:09:47 -0400</pubDate>
@@ -58,7 +68,8 @@ Zinszer K, Morrison K, Anema A, Majumder MS, Brownstein JS. 2015. The velocity o
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>https://kathryntmorrison.github.io/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>I am trained in biostatistics, epidemiology, and geographic information science. I finished my PhD in February 2017. I currently split my time between three major roles: as a private statistical consultant, as a post-doctoral research at McGill University with Dr. Robert Platt, and as a research analyst at the University of Montreal with Dr. Kate Zinszer.
+Methodologically, I&amp;rsquo;m interested in Bayesian approaches to spatio-temporal methods, Bayesian computation, and modern approaches to data visulization.</description>
     </item>
     
     <item>

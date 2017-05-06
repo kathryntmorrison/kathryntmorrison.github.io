@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Kathryn Morrison, PhD</title>
+    <link>https://kathryntmorrison.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Kathryn Morrison, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://kathryntmorrison.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Air pollution from wildfire smoke</title>
+      <link>https://kathryntmorrison.github.io/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/portfolio/work1/</guid>
+      <description>&lt;p&gt;Wildifre smoke&amp;hellip;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spatial patterns of the 2015 West African Ebola outbreak</title>
+      <link>https://kathryntmorrison.github.io/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/portfolio/work2/</guid>
+      <description>&lt;p&gt;The 2015 outbreak was unprecedented in terms of
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

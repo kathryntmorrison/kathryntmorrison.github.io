@@ -10,6 +10,10 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
+  [[params.navlinks]]
+  name = "Publications"
+  url = "publications/"
+
 [[menu.main]]
     name = "About"
     url = "/about/"

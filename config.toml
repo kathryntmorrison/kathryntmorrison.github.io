@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
   url = ""
 
 [[params.navlinks]]
-  name = "Testing posts"
+  name = "Blog posts"
   url = "post/"
 
 [[params.navlinks]]

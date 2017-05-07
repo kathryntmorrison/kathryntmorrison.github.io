@@ -17,7 +17,7 @@
       <pubDate>Mon, 09 Jan 2017 11:05:43 -0400</pubDate>
       
       <guid>https://kathryntmorrison.github.io/2017/01/09/the-new-markdown-syntax-is-awesome/</guid>
-      <description>I love how it automatically shows the compiled latex from math mode! Makes it a lot easier to read and avoid mistakes that take a long time to debug.</description>
+      <description>&lt;p&gt;I love how it automatically shows the compiled latex from math mode!  Makes it a lot easier to read and avoid mistakes that take a long time to debug. &lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,7 +26,8 @@
       <pubDate>Sat, 07 Jan 2017 11:05:43 -0400</pubDate>
       
       <guid>https://kathryntmorrison.github.io/2017/01/07/tracking-my-spending-with-mint.com-and-r/</guid>
-      <description></description>
+      <description>&lt;p&gt;I was listening to &lt;a href=&#34;https://www.patreon.com/NSSDeviations&#34;&gt;Not So Standard Deviations&lt;/a&gt;
+yesterday, which combines my love of podcasts with my love of data science - highly recommend!. The hosts were talking about possibly doing their taxes and/or managing their finances in R. &lt;/p&gt;</description>
     </item>
     
     <item>

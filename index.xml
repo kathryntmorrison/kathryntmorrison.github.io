@@ -70,11 +70,34 @@ Zinszer K, Morrison K, Anema A, Majumder MS, Brownstein JS. 2015. The velocity o
     
     <item>
       <title>The new markdown syntax is awesome</title>
+      <link>https://kathryntmorrison.github.io/2017/01/09/the-new-markdown-syntax-is-awesome/</link>
+      <pubDate>Mon, 09 Jan 2017 11:05:43 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/2017/01/09/the-new-markdown-syntax-is-awesome/</guid>
+      <description>Love how it automatically shows the compiled latex from math mode!</description>
+    </item>
+    
+    <item>
+      <title>The new markdown syntax is awesome</title>
       <link>https://kathryntmorrison.github.io/2017/01/07/the-new-markdown-syntax-is-awesome/</link>
       <pubDate>Sat, 07 Jan 2017 11:05:43 -0400</pubDate>
       
       <guid>https://kathryntmorrison.github.io/2017/01/07/the-new-markdown-syntax-is-awesome/</guid>
-      <description>Love how it automatically shows the compiled latex from math mode!</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WHO air pollution model</title>
+      <link>https://kathryntmorrison.github.io/2016/09/28/who-air-pollution-model/</link>
+      <pubDate>Wed, 28 Sep 2016 11:05:43 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/2016/09/28/who-air-pollution-model/</guid>
+      <description>One of my supervisors (Gavin Shaddick, University of Bath) has been working with his students and the WHO to estimate air pollution globally - the interactive data product went out yesterday and has been getting a lot of press. Very cool!
+WHO Report
+Guardian article
+Science Daily article
+NPR
+NYTimes</description>
     </item>
     
     <item>
@@ -85,15 +108,6 @@ Zinszer K, Morrison K, Anema A, Majumder MS, Brownstein JS. 2015. The velocity o
       <guid>https://kathryntmorrison.github.io/about/</guid>
       <description>My training is in biostatistics, epidemiology, and geographic information science. I finished my PhD in February 2017. I currently split my time between three major roles: as a private statistical consultant, as a post-doctoral researcher at McGill University with Dr. Robert Platt, and as a research analyst at the University of Montreal with Dr. Kate Zinszer.
 Methodologically, I&amp;rsquo;m interested in Bayesian approaches to spatio-temporal methods, Bayesian computation, and modern approaches to data visualization.</description>
-    </item>
-    
-    <item>
-      <title>The new markdown syntax is awesome</title>
-      <link>https://kathryntmorrison.github.io/2015/01/07/the-new-markdown-syntax-is-awesome/</link>
-      <pubDate>Wed, 07 Jan 2015 11:05:43 -0400</pubDate>
-      
-      <guid>https://kathryntmorrison.github.io/2015/01/07/the-new-markdown-syntax-is-awesome/</guid>
-      <description>Love how it automatically shows the compiled latex from math mode!</description>
     </item>
     
   </channel>

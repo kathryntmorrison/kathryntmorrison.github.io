@@ -48,15 +48,6 @@
     </item>
     
     <item>
-      <title>Blog posts</title>
-      <link>https://kathryntmorrison.github.io/blog/</link>
-      <pubDate>Sat, 06 May 2017 17:59:58 -0400</pubDate>
-      
-      <guid>https://kathryntmorrison.github.io/blog/</guid>
-      <description>Updating, coming back soon :-)</description>
-    </item>
-    
-    <item>
       <title>Statistical and epidemiological consulting</title>
       <link>https://kathryntmorrison.github.io/consult/</link>
       <pubDate>Sat, 06 May 2017 16:24:29 -0400</pubDate>
@@ -88,12 +79,12 @@ Methodologically, I&amp;rsquo;m interested in Bayesian approaches to spatio-temp
     </item>
     
     <item>
-      <title>markdown_syntax</title>
-      <link>https://kathryntmorrison.github.io/2015/01/07/markdown_syntax/</link>
+      <title>The new markdown syntax is awesome</title>
+      <link>https://kathryntmorrison.github.io/2015/01/07/the-new-markdown-syntax-is-awesome/</link>
       <pubDate>Wed, 07 Jan 2015 11:05:43 -0400</pubDate>
       
-      <guid>https://kathryntmorrison.github.io/2015/01/07/markdown_syntax/</guid>
-      <description>Examples.</description>
+      <guid>https://kathryntmorrison.github.io/2015/01/07/the-new-markdown-syntax-is-awesome/</guid>
+      <description>Love how it automatically shows the compiled latex from math mode!</description>
     </item>
     
   </channel>

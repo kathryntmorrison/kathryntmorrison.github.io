@@ -48,15 +48,6 @@
     </item>
     
     <item>
-      <title>markdown_syntax</title>
-      <link>https://kathryntmorrison.github.io/2017/05/07/markdown_syntax/</link>
-      <pubDate>Sun, 07 May 2017 11:05:43 -0400</pubDate>
-      
-      <guid>https://kathryntmorrison.github.io/2017/05/07/markdown_syntax/</guid>
-      <description>Examples.</description>
-    </item>
-    
-    <item>
       <title>Blog posts</title>
       <link>https://kathryntmorrison.github.io/blog/</link>
       <pubDate>Sat, 06 May 2017 17:59:58 -0400</pubDate>
@@ -94,6 +85,15 @@ Zinszer K, Morrison K, Anema A, Majumder MS, Brownstein JS. 2015. The velocity o
       <guid>https://kathryntmorrison.github.io/about/</guid>
       <description>My training is in biostatistics, epidemiology, and geographic information science. I finished my PhD in February 2017. I currently split my time between three major roles: as a private statistical consultant, as a post-doctoral researcher at McGill University with Dr. Robert Platt, and as a research analyst at the University of Montreal with Dr. Kate Zinszer.
 Methodologically, I&amp;rsquo;m interested in Bayesian approaches to spatio-temporal methods, Bayesian computation, and modern approaches to data visualization.</description>
+    </item>
+    
+    <item>
+      <title>markdown_syntax</title>
+      <link>https://kathryntmorrison.github.io/2015/01/07/markdown_syntax/</link>
+      <pubDate>Wed, 07 Jan 2015 11:05:43 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/2015/01/07/markdown_syntax/</guid>
+      <description>Examples.</description>
     </item>
     
   </channel>

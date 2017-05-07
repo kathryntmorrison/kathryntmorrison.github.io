@@ -36,12 +36,23 @@ yesterday, which combines my love of podcasts with my love of data science - hig
       <pubDate>Wed, 28 Sep 2016 11:05:43 -0400</pubDate>
       
       <guid>https://kathryntmorrison.github.io/2016/09/28/who-air-pollution-model/</guid>
-      <description>One of my supervisors (Gavin Shaddick, University of Bath) has been working with his students and the WHO to estimate air pollution globally - the interactive data product went out yesterday and has been getting a lot of press. Very cool!
+      <description>One of my supervisors (Gavin Shaddick, University of Bath) has been working with his team and the WHO to estimate air pollution globally - the interactive data product went out yesterday and has been getting a lot of press!
 WHO Report
 Guardian article
 Science Daily article
 NPR
-NYTimes</description>
+NYTimes
+   </description>
+    </item>
+    
+    <item>
+      <title>Metrics for assessing forecast accuracy</title>
+      <link>https://kathryntmorrison.github.io/2016/05/05/metrics-for-assessing-forecast-accuracy/</link>
+      <pubDate>Thu, 05 May 2016 15:54:16 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/2016/05/05/metrics-for-assessing-forecast-accuracy/</guid>
+      <description>There are a number of ways to summarize forecast accuracy across a forecast horizon, but I’ve come to realize recently how unclear it is which measure to use in which situation - and how non-standardized it is.
+ Sometimes we have data with different units, sometimes we have data with the same units but hugely different scales, sometimes outliers, and so on. We often want a measure that isn’t hugely sensitive to outliers and is scale-independent (relative).</description>
     </item>
     
   </channel>

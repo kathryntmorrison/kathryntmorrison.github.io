@@ -2,23 +2,23 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>The new markdown syntax is awesome</title>
+<title>forecast_accuracy</title>
 <meta name="description" content="A website built through Hugo and blogdown.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
-<link rel="stylesheet" href="https://kathryntmorrison.github.io/css/bootstrap.min.css">
+<link rel="stylesheet" href="../../../../css/bootstrap.min.css">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
-<link rel="stylesheet" href="https://kathryntmorrison.github.io/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://kathryntmorrison.github.io/css/owl.carousel.css">
-<link rel="stylesheet" href="https://kathryntmorrison.github.io/css/owl.theme.css">
+<link rel="stylesheet" href="../../../../css/font-awesome.min.css">
+<link rel="stylesheet" href="../../../../css/owl.carousel.css">
+<link rel="stylesheet" href="../../../../css/owl.theme.css">
 
 
-  <link href="https://kathryntmorrison.github.io/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+  <link href="../../../../css/style.default.css" rel="stylesheet" id="theme-stylesheet">
 
 
-<link href="https://kathryntmorrison.github.io/css/custom.css" rel="stylesheet">
-<link rel="shortcut icon" href="https://kathryntmorrison.github.io/img/favicon.png">
+<link href="../../../../css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="../../../../img/favicon.png">
 
 
 
@@ -64,15 +64,15 @@
     <ul class="sidebar-menu">
       
       
-        <li><a href="https://kathryntmorrison.github.io/">Projects</a></li>
+        <li><a href="../../../../">Projects</a></li>
       
-        <li><a href="https://kathryntmorrison.github.io/post/">Blog posts</a></li>
+        <li><a href="../../../../post/">Blog posts</a></li>
       
-        <li><a href="https://kathryntmorrison.github.io/about/">About me</a></li>
+        <li><a href="../../../../about/">About me</a></li>
       
-        <li><a href="https://kathryntmorrison.github.io/publications/">Recent publications</a></li>
+        <li><a href="../../../../publications/">Recent publications</a></li>
       
-        <li><a href="https://kathryntmorrison.github.io/consult/">Consulting services</a></li>
+        <li><a href="../../../../consult/">Consulting services</a></li>
       
     </ul>
     
@@ -115,14 +115,16 @@ Ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>The new markdown syntax is awesome</h1>
-         <p>I love how it automatically shows the compiled latex from math mode!  Makes it a lot easier to read and avoid mistakes that take a long time to debug. </p>
+         <h1>forecast_accuracy</h1>
+         <p>There are a number of ways to summarize forecast accuracy across a forecast horizon, but I’ve come to realize recently how unclear it is which measure to use in which situation - and how non-standardized it is.</p>
+<p>Sometimes we have data with different units, sometimes we have data with the same units but hugely different scales, sometimes outliers, and so on. We often want a measure that isn’t hugely sensitive to outliers and is scale-independent (relative). But, if we have data with many zeros, many relative measures can be problematic.</p>
+<!--more-->
+<p>There seem to really be two primary types of forecast accuracy metrics:</p>
+<p>1.Comparison between the true observed value <span class="math inline">\(y_t\)</span> and the predicted value <span class="math inline">\(\hat{y_t}\)</span>, based on the error e.g., <span class="math inline">\(e_t = y_t - \hat{y_t}\)</span></p>
+<ol start="2" style="list-style-type: decimal">
+<li>Comparison between the accuracy of a proposed method (<span class="math inline">\(e_t\)</span> from above) and a baseline method, often a naive forecast such as the last available data point (random walk), or possibly adjusting for seasonal trends only.</li>
+</ol>
 
-<p>
-<center>
- <img src="../../../../post/markdown_math.png" width="750"> 
-</center>
-</p>
          
       </div>
     </div>
@@ -132,15 +134,15 @@ Ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
           </div>
       </div>
   </div>
-  <script src="https://kathryntmorrison.github.io/js/jquery.min.js"></script>
-<script src="https://kathryntmorrison.github.io/js/bootstrap.min.js"></script>
-<script src="https://kathryntmorrison.github.io/js/jquery.cookie.js"> </script>
-<script src="https://kathryntmorrison.github.io/js/ekko-lightbox.js"></script>
-<script src="https://kathryntmorrison.github.io/js/jquery.scrollTo.min.js"></script>
-<script src="https://kathryntmorrison.github.io/js/masonry.pkgd.min.js"></script>
-<script src="https://kathryntmorrison.github.io/js/imagesloaded.pkgd.min.js"></script>
-<script src="https://kathryntmorrison.github.io/js/owl.carousel.min.js"></script>
-<script src="https://kathryntmorrison.github.io/js/front.js"></script>
+  <script src="../../../../js/jquery.min.js"></script>
+<script src="../../../../js/bootstrap.min.js"></script>
+<script src="../../../../js/jquery.cookie.js"> </script>
+<script src="../../../../js/ekko-lightbox.js"></script>
+<script src="../../../../js/jquery.scrollTo.min.js"></script>
+<script src="../../../../js/masonry.pkgd.min.js"></script>
+<script src="../../../../js/imagesloaded.pkgd.min.js"></script>
+<script src="../../../../js/owl.carousel.min.js"></script>
+<script src="../../../../js/front.js"></script>
 
 </body>
 </html>

@@ -48,21 +48,21 @@
     </item>
     
     <item>
+      <title>markdown_syntax</title>
+      <link>https://kathryntmorrison.github.io/2017/05/07/markdown_syntax/</link>
+      <pubDate>Sun, 07 May 2017 11:05:43 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/2017/05/07/markdown_syntax/</guid>
+      <description>Examples.</description>
+    </item>
+    
+    <item>
       <title>Blog posts</title>
       <link>https://kathryntmorrison.github.io/blog/</link>
       <pubDate>Sat, 06 May 2017 17:59:58 -0400</pubDate>
       
       <guid>https://kathryntmorrison.github.io/blog/</guid>
       <description>Updating, coming back soon :-)</description>
-    </item>
-    
-    <item>
-      <title>Blog posts</title>
-      <link>https://kathryntmorrison.github.io/posts/</link>
-      <pubDate>Sat, 06 May 2017 17:58:42 -0400</pubDate>
-      
-      <guid>https://kathryntmorrison.github.io/posts/</guid>
-      <description>Updating, coming soon :-)</description>
     </item>
     
     <item>
@@ -102,7 +102,7 @@ Zinszer K, Morrison K, Anema A, Majumder MS, Brownstein JS. 2015. The velocity o
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>https://kathryntmorrison.github.io/about/</guid>
-      <description>My training is in biostatistics, epidemiology, and geographic information science. I finished my PhD in February 2017. I currently split my time between three major roles: as a private statistical consultant, as a post-doctoral research at McGill University with Dr. Robert Platt, and as a research analyst at the University of Montreal with Dr. Kate Zinszer.
+      <description>My training is in biostatistics, epidemiology, and geographic information science. I finished my PhD in February 2017. I currently split my time between three major roles: as a private statistical consultant, as a post-doctoral researcher at McGill University with Dr. Robert Platt, and as a research analyst at the University of Montreal with Dr. Kate Zinszer.
 Methodologically, I&amp;rsquo;m interested in Bayesian approaches to spatio-temporal methods, Bayesian computation, and modern approaches to data visualization.</description>
     </item>
     

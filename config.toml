@@ -2,11 +2,10 @@ baseurl = "https://kathryntmorrison.github.io/"
 relativeurls = true
 languageCode = "en-us"
 title = "Kathryn Morrison, PhD"
-theme = "hugo-lithium-theme"
+theme = "hugo-creative-portfolio-theme"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
-
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -20,6 +19,10 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
   url = "blog/"
 
 [[params.navlinks]]
+  name = "Testing posts"
+  url = "post/"
+
+[[params.navlinks]]
   name = "About me"
   url = "about/"
 
@@ -31,15 +34,6 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
   name = "Consulting services"
   url = "consult/"
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
 
 [params]
     description = "A website built through Hugo and blogdown."

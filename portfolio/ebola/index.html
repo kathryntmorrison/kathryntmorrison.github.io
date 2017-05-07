@@ -121,11 +121,11 @@ Ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
 
 <p>The recent Ebola virus disease (EVD) epidemic in West Africa was the largest EVD outbreak in history, spreading across Guinea, Liberia, and Sierra Leone, infecting an estimated 28,600 individuals, and claiming over 11,000 lives.</p>
 
-<p>In 2015, <a href="https://www.linkedin.com/in/kate-zinszer-9051671a" target="_blank"> Kate Zinszer </a> had the idea to use surface trend analysis to estimate the front-wave velocity of Ebola viral disease (EVD) for the 2015 outbreak, based on how it has been prevoiusly used for rabies<sup>1</sup> and sleeping sickness.<sup>2</sup> We implemented the methodology and published our findings<sup>3</sup>.</p>
+<p>In 2015, <a href="https://www.linkedin.com/in/kate-zinszer-9051671a" target="_blank"> Kate Zinszer </a> had the idea to use surface trend analysis to estimate the front-wave velocity of Ebola viral disease (EVD) for the 2015 outbreak, based on how it has been previously used for rabies<sup>1</sup> and sleeping sickness.<sup>2</sup> We implemented the methodology and published our findings<sup>3</sup>.</p>
 
 <p>Estimating front-wave velocity is a straightforward method but there is no pre-existing software we could find, and some of the calculations are a bit tedious. To streamline our work, I developed an R package that automates most of the calculations. All the package requires is an integer ranking of case date, and coordinates of the cases. These coordinates could either be the specific location of the case, or (more commonly), the centroid of the region and corresponding date of first case within the region.</p>
 
-<p>I will be writing a more detailed vignette eventually, but in the meantime the package is useable. Please report any errors or requests for additional functionality to me! The package is not yet on the CRAN but is hosted on github can can be installed using devtools.</p>
+<p>I will be writing a more detailed vignette eventually, but in the meantime the package is useable. Please report any errors or requests for additional functionality to me! The package is not yet on the CRAN but is hosted on github can be installed using devtools.</p>
 
 <pre><code class="language-r">library(devtools)
 install_github(&quot;kathryntmorrison/outbreakvelocity&quot;)
@@ -133,7 +133,7 @@ install_github(&quot;kathryntmorrison/outbreakvelocity&quot;)
 
 <p>You can also <a href="https://github.com/kathryntmorrison/outbreakvelocity" target="_blank"> view the source code and submit pull requests</a>.</p>
 
-<p>More recently<sup>4</sup>, we idenitifed some of the spatial predictors of Ebola spread in this study area during the outbreak. One of the co-athors, <a href="https://www.researchgate.net/profile/Aman_Verma8">Aman Verma</a>, scraped and processed environmental data (such as rainfall and temperature) from satellite imagery. We also looked a population-level demographic data. I used a spatial CAR model in INLA to explore the amount of spatial variation captured by these different predictors. We found that households not having a radio had notably increased risk of EVD, and rainfall higher and urban land cover were also predictive. This was an exploratory ecological level study, but the we found the radio predictor especially interesting for further research.</p>
+<p>More recently<sup>4</sup>, we identified some of the spatial predictors of Ebola spread in this study area during the outbreak. One of the co-authors, <a href="https://www.researchgate.net/profile/Aman_Verma8">Aman Verma</a>, scraped and processed environmental data (such as rainfall and temperature) from satellite imagery. We also looked a population-level demographic data. I used a spatial CAR model in INLA to explore the amount of spatial variation captured by these different predictors. We found that households not having a radio had notably increased risk of EVD, and rainfall higher and urban land cover were also predictive. This was an exploratory ecological level study, but the we found the radio predictor especially interesting for further research.</p>
 
 <p><br>
 <br>
@@ -145,7 +145,7 @@ install_github(&quot;kathryntmorrison/outbreakvelocity&quot;)
 
 <p><sup>3</sup> Zinszer K, Morrison K, Anema A, Majumder M, Brownstein J. 2015. <a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(15)00234-0/abstract" target="_blank"> &lsquo;The velocity of Ebola spread in parts of west Africa.&rsquo; </a> <em>The Lancet Infectious Diseases</em>, 15(9): 1005-1007.site using R markdown/knitr and github pages (like this one!)</p>
 
-<p><sup>3</sup>Zinszer K, Morrison K, Verma A, Brownstein JS.2017. <a href="http://currents.plos.org/outbreaks/article/obk-16-0062-spatial-determinants-of-ebola-virus-disease-risk-for-the-west-african-epidemic/">Spatial determinants of Ebola virus disease risk for the West African epidemic.</a> <em>PLoS Currents</em>, 9.</p>
+<p><sup>4</sup> Zinszer K, Morrison K, Verma A, Brownstein JS.2017. <a href="http://currents.plos.org/outbreaks/article/obk-16-0062-spatial-determinants-of-ebola-virus-disease-risk-for-the-west-african-epidemic/">Spatial determinants of Ebola virus disease risk for the West African epidemic.</a> <em>PLoS Currents</em>, 9.</p>
          
       </div>
     </div>

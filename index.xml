@@ -48,6 +48,16 @@
     </item>
     
     <item>
+      <title>New website using Hugo and Blogdown</title>
+      <link>https://kathryntmorrison.github.io/2017/05/18/new-website-using-hugo-and-blogdown/</link>
+      <pubDate>Thu, 18 May 2017 16:01:52 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/2017/05/18/new-website-using-hugo-and-blogdown/</guid>
+      <description>I recently remade my website with Hugo and Blogdown in R. I was inspired by Amber Thomas&amp;rsquo;s beautiful website, and she had written a blog post about the process of creating it. I relied heavily on her instructions and also on Jente Hidskes&amp;rsquo; instructions, which have been updated since Amber wrote her post. I changed things a bit and avoided using the nested git repos.
+Hugo has tons of information on hosting using github pages.</description>
+    </item>
+    
+    <item>
       <title>Statistical and epidemiological consulting</title>
       <link>https://kathryntmorrison.github.io/consult/</link>
       <pubDate>Sat, 06 May 2017 16:24:29 -0400</pubDate>

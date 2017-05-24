@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Kathryn Morrison, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2017 16:01:52 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 13:04:40 -0400</lastBuildDate>
     
 	<atom:link href="https://kathryntmorrison.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gganimate</title>
+      <link>https://kathryntmorrison.github.io/2017/05/24/gganimate/</link>
+      <pubDate>Wed, 24 May 2017 13:04:40 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/2017/05/24/gganimate/</guid>
+      <description>&lt;p&gt;Made my first &lt;a href=&#34;https://github.com/dgrtwo/gganimate&#34;&gt;gganimate&lt;/a&gt; figure! So useful for looking at your own data and would also be great for teaching.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>New website using Hugo and Blogdown</title>

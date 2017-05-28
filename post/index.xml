@@ -76,5 +76,14 @@ NYTimes
  Sometimes we have data with different units, sometimes we have data with the same units but hugely different scales, sometimes outliers, and so on. We often want a measure that isn’t hugely sensitive to outliers and is scale-independent (relative).</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://kathryntmorrison.github.io/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/1/01/01/</guid>
+      <description>Animations Using the R Language     hljs.initHighlightingOnLoad();    ## Animations generated in R version 3.4.0 (2017-04-21) ## using the package animation library(gapminder) library(animation) library(gganimate) library(gridExtra) library(gpclib) library(RColorBrewer) library(shiny) library(rgeos) library(stringi) library(scales) library(plyr) library(rgdal) library(maptools) library(sp) library(ggplot2) library(reshape2) library(dplyr) expr ## R version 3.4.0 (2017-04-21) ## Platform: x86_64-apple-darwin15.6.0 (64-bit) ## Other packages: gapminder 0.2.0, animation 2.5, gganimate 0.1.0.9000, gridExtra 2.2.1, ## gpclib 1.5-5, RColorBrewer 1.</description>
+    </item>
+    
   </channel>
 </rss>
